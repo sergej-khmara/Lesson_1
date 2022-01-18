@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db6bc376-ccbf-4858-ba63-32704fe37429" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23pWP9ZPCmPzPupVuIgkIz2JRtF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sergey\WebstormProjects\Lesson_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.L1-Ttask-14.js">
+    <configuration name="L1-Ttask-10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-10.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="L1-Ttask-11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-11.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="L1-Ttask-12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-12.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="L1-Ttask-13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-13.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="L1-Ttask-14.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-14.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.L1-Ttask-14.js" />
+        <item itemvalue="Node.js.L1-Ttask-13.js" />
+        <item itemvalue="Node.js.L1-Ttask-12.js" />
+        <item itemvalue="Node.js.L1-Ttask-11.js" />
+        <item itemvalue="Node.js.L1-Ttask-10.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db6bc376-ccbf-4858-ba63-32704fe37429" name="Default Changelist" comment="" />
+      <created>1642431481413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642431481413</updated>
+      <workItem from="1642431482440" duration="1523000" />
+      <workItem from="1642433020383" duration="129000" />
+      <workItem from="1642433589256" duration="811000" />
+      <workItem from="1642434468553" duration="11199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642433122374">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642433122374" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642432132839">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642432132839" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1642486991562">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1642486991562">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1642486991562">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1642486991562">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
+    <state x="461" y="224" key="SettingsEditor" timestamp="1642433148263">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="224" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642433148263" />
+  </component>
+</project>
