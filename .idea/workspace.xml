@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6bc376-ccbf-4858-ba63-32704fe37429" name="Default Changelist" comment="" />
+    <list default="true" id="db6bc376-ccbf-4858-ba63-32704fe37429" name="Default Changelist" comment="Lesson_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Task-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Task-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Task-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Task-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Task-4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Ttask-10.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Ttask-10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Ttask-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Ttask-4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Ttask-7.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Ttask-7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1-Ttask-8.js" beforeDir="false" afterPath="$PROJECT_DIR$/L1-Ttask-8.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23pWP9ZPCmPzPupVuIgkIz2JRtF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -31,33 +53,37 @@
       <recent name="C:\Users\sergey\WebstormProjects\Lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.L1-Ttask-14.js">
+  <component name="RunManager" selected="Node.js.L1-Task-1.js">
+    <configuration name="L1-Task-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Task-1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="L1-Ttask-10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-10.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="L1-Ttask-11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-11.js" working-dir="$PROJECT_DIR$">
+    <configuration name="L1-Ttask-4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-4.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="L1-Ttask-12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-12.js" working-dir="$PROJECT_DIR$">
+    <configuration name="L1-Ttask-7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-7.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="L1-Ttask-13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-13.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="L1-Ttask-14.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-14.js" working-dir="$PROJECT_DIR$">
+    <configuration name="L1-Ttask-8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/L1-Ttask-8.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.L1-Ttask-14.js" />
-        <item itemvalue="Node.js.L1-Ttask-13.js" />
-        <item itemvalue="Node.js.L1-Ttask-12.js" />
-        <item itemvalue="Node.js.L1-Ttask-11.js" />
+        <item itemvalue="Node.js.L1-Task-1.js" />
+        <item itemvalue="Node.js.L1-Ttask-8.js" />
         <item itemvalue="Node.js.L1-Ttask-10.js" />
+        <item itemvalue="Node.js.L1-Ttask-7.js" />
+        <item itemvalue="Node.js.L1-Ttask-4.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sergey\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="db6bc376-ccbf-4858-ba63-32704fe37429" name="Default Changelist" comment="" />
@@ -69,44 +95,92 @@
       <workItem from="1642433020383" duration="129000" />
       <workItem from="1642433589256" duration="811000" />
       <workItem from="1642434468553" duration="11199000" />
+      <workItem from="1642487019467" duration="4517000" />
+      <workItem from="1642492053020" duration="682000" />
+      <workItem from="1642492745367" duration="761000" />
+      <workItem from="1642493567447" duration="132000" />
+      <workItem from="1642493727016" duration="204000" />
+      <workItem from="1642494011787" duration="39000" />
+      <workItem from="1642494063999" duration="119000" />
+      <workItem from="1642494218571" duration="283000" />
+      <workItem from="1642494533964" duration="1752000" />
+      <workItem from="1642496324984" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="714" y="403" key="#Notifications" timestamp="1642493904985">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="714" y="403" key="#Notifications/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642493904985" />
     <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642433122374">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642433122374" />
-    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642432132839">
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642496400372">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="334" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642432132839" />
-    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1642486991562">
+    <state x="740" y="334" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496400372" />
+    <state x="838" y="477" key="Github.ShareDialog" timestamp="1642496449682">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="838" y="477" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496449682" />
+    <state x="761" y="277" key="Github.UntrackedFilesDialog" timestamp="1642493769900">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="761" y="277" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642493769900" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1642496286300">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
-    <state width="1899" height="321" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
-    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1642486991562">
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496286300" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1642496286300">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
-    <state width="1899" height="321" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
-    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1642486991562">
+    <state width="1899" height="321" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496286300" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1642496286300">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
-    <state width="1899" height="321" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
-    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1642486991562">
+    <state width="1899" height="321" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496286300" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1642496286300">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
-    <state width="1899" height="321" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642486991562" />
-    <state x="461" y="224" key="SettingsEditor" timestamp="1642433148263">
+    <state width="1899" height="321" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496286300" />
+    <state x="492" y="297" key="SettingsEditor" timestamp="1642496774429">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="461" y="224" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642433148263" />
+    <state x="492" y="297" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642496774429" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1642494783138">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642494783138" />
   </component>
 </project>
