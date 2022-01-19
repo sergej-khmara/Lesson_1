@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -99,7 +99,7 @@
       <workItem from="1642494218571" duration="283000" />
       <workItem from="1642494533964" duration="1752000" />
       <workItem from="1642496324984" duration="8687000" />
-      <workItem from="1642573940684" duration="369000" />
+      <workItem from="1642573940684" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson_1">
       <created>1642497274883</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642574123939</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson_1">
+      <created>1642574319931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642574319931</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,14 +217,14 @@
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642457048398" />
     <state width="1400" height="321" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642573024465" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1160@1920.0.1920.1040" timestamp="1642515352198" />
-    <state x="492" y="297" key="SettingsEditor" timestamp="1642504456175">
+    <state x="492" y="297" key="SettingsEditor" timestamp="1642574737950">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="492" y="297" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642504456175" />
-    <state x="2193" y="259" key="Vcs.Push.Dialog.v2" timestamp="1642516049251">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="492" y="297" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642574737950" />
+    <state x="840" y="308" key="Vcs.Push.Dialog.v2" timestamp="1642574331749">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="840" y="308" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642509396451" />
+    <state x="840" y="308" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1642574331749" />
     <state x="2193" y="259" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1160@1920.0.1920.1040" timestamp="1642516049251" />
     <state x="2697" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642516093254">
       <screen x="1920" y="0" width="1920" height="1040" />
